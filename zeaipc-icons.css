@@ -1,0 +1,13 @@
+.zi {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.zi-zeaipc {
+  background-image: url('https://cdn.jsdelivr.net/gh/zeaipc/zeaipc-icons@main/zeaipc-icon.svg');
+}
